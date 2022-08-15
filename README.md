@@ -1,1 +1,12 @@
-# Model-deployment-1
+# Model-deployment-1![docker deployment](https://user-images.githubusercontent.com/105724885/184636934-6fdf8a6a-0cd5-4a46-ada0-c78de590623e.jpg)
+![docker up](https://user-images.githubusercontent.com/105724885/184636940-525c9e8a-7e7f-4d83-b9e1-514d4cd89d9b.jpg)
+![sonar check](https://user-images.githubusercontent.com/105724885/184636944-401d5ec0-8b08-4743-b434-a46f127e4c9e.jpg)
+![sonar up](https://user-images.githubusercontent.com/105724885/184636949-31ae0384-12f8-416d-9c8a-d146a03cf4e0.jpg)
+![1](https://user-images.githubusercontent.com/105724885/184636952-e8acf2cc-ebbb-4e1e-bab5-cfe4e808cfcf.jpg)
+![2](https://user-images.githubusercontent.com/105724885/184636954-d81234fd-eddb-429b-8951-9fdc2a67bbd3.jpg)
+![4](https://user-images.githubusercontent.com/105724885/184636955-2ecaca78-8e03-476f-99ca-92b8355b8b4f.jpg)
+![6](https://user-images.githubusercontent.com/105724885/184636957-05435250-a69a-4036-8b14-93b0c7c7f503.jpg)
+![8](https://user-images.githubusercontent.com/105724885/184636958-4af00632-f7aa-4242-ba77-c50d959ab3db.jpg)
+![code](https://user-images.githubusercontent.com/105724885/184636961-fd1e02a6-78db-4f7e-97b3-62e50d9c84c5.jpg)
+![deploed](https://user-images.githubusercontent.com/105724885/184636965-c83f10b0-3a4b-4963-b73f-5e786b5103fc.jpg)
+![deployed](https://user-images.githubusercontent.com/105724885/184636966-808b3384-6592-43b9-990a-2d7a7394c5b8.jpg)
